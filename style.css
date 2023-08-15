@@ -1,0 +1,40 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    border-radius: 0px;
+
+}
+
+
+.head{
+    background-image: url(img/dorado.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 80px;
+    
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.col {
+    padding-top: 10px;
+}
+
+.card {
+    border-radius: 20px ;
+    border-color: blueviolet;
+}
+
+.card-img-top {
+    height: 250px;
+    width: 220px;
+}
+
+section {
+    background-color: rgb(71, 66, 66);
+}
